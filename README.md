@@ -92,7 +92,9 @@ score = (ROC_AUC(week_churn) + ROC_AUC(month_churn)) / 2
 ## 📧 Контакты
 
 tg_id: @nt_go1
+
 email: andreybatalov@yandex.ru
+
 ---
 
 *Проект создан в рамках хакатона ИТМОxЯндек.Образование*
